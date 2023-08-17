@@ -8,7 +8,7 @@ Docs are automatically generated from [README.md][] and [immutable.d.ts][].
 Please contribute! Also, don't miss the [wiki][] which contains articles on
 additional specific topics. Can't find something? Open an [issue][].
 
-**Table of contents:**
+**Table of contents:** 
 
 - [Introduction](#introduction)
 - [Getting started](#getting-started)
